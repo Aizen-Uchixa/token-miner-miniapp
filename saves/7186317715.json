@@ -1,0 +1,282 @@
+{
+  "name": "Usmanvc💸",
+  "coins": 79645,
+  "gems": 96,
+  "active_mine": "coal",
+  "unlocked_mines": [
+    "coal"
+  ],
+  "mines": {
+    "coal": {
+      "shaft": {
+        "level": 14
+      },
+      "elevator": {
+        "level": 14
+      },
+      "warehouse": {
+        "level": 14
+      },
+      "level": 2,
+      "mine_storage": 558,
+      "elevator_storage": 0,
+      "warehouse_storage": 0,
+      "auto_sell": false
+    }
+  },
+  "inventory": {
+    "boost_x2": 0,
+    "boost_x5": 0,
+    "boost_x10": 0,
+    "chest_basic": 0,
+    "chest_rare": 0
+  },
+  "active_boost": {
+    "multiplier": 5,
+    "expires_at": 1772206600.0539935
+  },
+  "assigned_managers": {
+    "shaft": "miner_c",
+    "elevator": "miner_c",
+    "warehouse": "miner_c"
+  },
+  "manager_inventory": {
+    "miner_c": {
+      "level": 1,
+      "fragments": 1
+    }
+  },
+  "manager_skills": {
+    "shaft": {
+      "active_until": 1772198279.0629048,
+      "cd_until": 1772199059.0629048,
+      "notified": false
+    },
+    "elevator": {
+      "active_until": 1772198281.2845502,
+      "cd_until": 1772199061.2845502,
+      "notified": false
+    },
+    "warehouse": {
+      "active_until": 1772198281.84797,
+      "cd_until": 1772199061.84797,
+      "notified": false
+    }
+  },
+  "missions_completed": [],
+  "last_offline_check": 1772263253.2965713,
+  "offline_earnings": 60372,
+  "prestige_points": 0,
+  "research": {
+    "efficiency": 0,
+    "logistics": 0,
+    "automation": 0,
+    "engineering": 0,
+    "marketing": 0
+  },
+  "last_daily": 1772181402.6413102,
+  "event_active": false,
+  "settings": {
+    "notifications": true,
+    "last_action_ts": 1772263405.674721,
+    "notifications_enabled": true,
+    "notify_manager_ready": true,
+    "notify_event_end": true,
+    "notify_daily_ready": true,
+    "notify_prestige_ready": true,
+    "notify_updates": true,
+    "last_unsolicited_ts": 0,
+    "last_notified": {
+      "manager_ready": 0,
+      "event_end": 0,
+      "daily_ready": 0,
+      "prestige_ready": 0,
+      "update": 0,
+      "exp_done": 0
+    },
+    "notify_expedition_done": true,
+    "section_images": true
+  },
+  "stats": {
+    "total_earned": 193782,
+    "total_upgrades": 40,
+    "start_date": 1772169071.894364
+  },
+  "achievements": [],
+  "has_started": true,
+  "automation_lvl": 0,
+  "manager_chest_opened": 0,
+  "creator_sub_reward_claimed": true,
+  "lang": "ru",
+  "lang_prompted": true,
+  "onboarding_done": true,
+  "last_seen_version": "0.3.0",
+  "rng_counter": 755,
+  "expeditions": {
+    "active": {
+      "id": "convoy_8h",
+      "started_at": 1772182920.1659713,
+      "ends_at": 1772211720.1659713,
+      "reward": {
+        "coins": 180000,
+        "gems": 120,
+        "chest_rare": 1,
+        "boost_x5": 1,
+        "manager_fragments": 12
+      },
+      "done_notified": false
+    },
+    "history": []
+  },
+  "season": {
+    "id": "S1",
+    "xp": 0,
+    "level": 1,
+    "premium": false,
+    "claimed_free": [
+      1
+    ],
+    "claimed_premium": []
+  },
+  "quests": {
+    "daily": {
+      "reset_at": 1772274291.2823596,
+      "items": {
+        "earn_50000": {
+          "event": "earn_coins",
+          "target": 50000,
+          "progress": 50000,
+          "reward": {
+            "season_xp": 70,
+            "gems": 12
+          },
+          "done": true
+        },
+        "activate_ability_1": {
+          "event": "activate_ability",
+          "target": 1,
+          "progress": 1,
+          "reward": {
+            "season_xp": 55,
+            "gems": 8
+          },
+          "done": true
+        },
+        "start_expedition_1": {
+          "event": "start_expedition",
+          "target": 1,
+          "progress": 0,
+          "reward": {
+            "season_xp": 55,
+            "gems": 8
+          },
+          "done": false
+        }
+      },
+      "claimed": []
+    },
+    "weekly": {
+      "reset_at": 1772792691.2823596,
+      "items": {
+        "open_chest_10": {
+          "event": "open_chest",
+          "target": 10,
+          "progress": 10,
+          "reward": {
+            "season_xp": 280,
+            "gems": 40
+          },
+          "done": true
+        },
+        "earn_1000000": {
+          "event": "earn_coins",
+          "target": 1000000,
+          "progress": 111124,
+          "reward": {
+            "season_xp": 320,
+            "gems": 50,
+            "manager_fragments": 10
+          },
+          "done": false
+        },
+        "complete_expeditions_5": {
+          "event": "complete_expedition",
+          "target": 5,
+          "progress": 0,
+          "reward": {
+            "season_xp": 250,
+            "gems": 35,
+            "chest_basic": 1
+          },
+          "done": false
+        }
+      },
+      "claimed": []
+    }
+  },
+  "antispam": {
+    "action_ts": [
+      1772263405.674721
+    ]
+  },
+  "creator_sub_bonus_active": true,
+  "creator_reaction_reward_claimed": false,
+  "creator_reaction_bonus_active": false,
+  "auto_manager_lvl": 1,
+  "drops": {
+    "diamond_chance_lvl": 0,
+    "diamonds": 18,
+    "pending": 0
+  },
+  "channel_rewards": {
+    "sub_bonus_given": true,
+    "sub_bonus_coins": 10000,
+    "sub_bonus_gems": 25,
+    "granted_at": 1772191612.28112
+  },
+  "manager_automation": {
+    "shaft": true,
+    "elevator": true,
+    "warehouse": true
+  },
+  "resources": {
+    "diamond": 14,
+    "gold": 28,
+    "iron": 58,
+    "copper": 58,
+    "silver": 23,
+    "aluminum": 23,
+    "bone": 38,
+    "fossil_fragment": 7,
+    "rare_dino_part": 1
+  },
+  "museum": {
+    "owned": false,
+    "level": 1,
+    "income_pool": 0,
+    "last_claim": 0,
+    "last_tick": 1772197925.5604613
+  },
+  "fossils": {
+    "parts": {
+      "fossil_14:part_5": 1,
+      "fossil_16:part_2": 1,
+      "fossil_18:part_4": 2,
+      "fossil_32:part_3": 1,
+      "fossil_44:part_3": 1,
+      "fossil_06:part_2": 1,
+      "fossil_31:part_4": 1,
+      "fossil_44:part_2": 1
+    },
+    "assembled": []
+  },
+  "company": {
+    "name": "Симпапусики",
+    "level": 2,
+    "xp": 156
+  },
+  "wheel": {
+    "next_at": 1772284459.1170466
+  },
+  "ledger": []
+}

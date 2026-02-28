@@ -1,0 +1,207 @@
+{
+  "name": "Akbar",
+  "coins": 500,
+  "gems": 50,
+  "active_mine": "coal",
+  "unlocked_mines": [
+    "coal"
+  ],
+  "mines": {
+    "coal": {
+      "shaft": {
+        "level": 1
+      },
+      "elevator": {
+        "level": 1
+      },
+      "warehouse": {
+        "level": 1
+      },
+      "level": 1
+    }
+  },
+  "inventory": {
+    "boost_x2": 1,
+    "boost_x5": 0,
+    "boost_x10": 0,
+    "chest_basic": 0,
+    "chest_rare": 0
+  },
+  "active_boost": {
+    "multiplier": 1,
+    "expires_at": 0
+  },
+  "assigned_managers": {
+    "shaft": "miner_c",
+    "elevator": null,
+    "warehouse": null
+  },
+  "manager_inventory": {
+    "miner_c": {
+      "level": 1,
+      "fragments": 1
+    }
+  },
+  "manager_skills": {
+    "shaft": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    },
+    "elevator": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    },
+    "warehouse": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    }
+  },
+  "missions_completed": [],
+  "last_offline_check": 1772188287.6339712,
+  "offline_earnings": 0,
+  "prestige_points": 0,
+  "automation_lvl": 0,
+  "manager_chest_opened": 0,
+  "rng_counter": 0,
+  "research": {
+    "efficiency": 0,
+    "logistics": 0,
+    "automation": 0,
+    "engineering": 0,
+    "marketing": 0
+  },
+  "last_daily": 0,
+  "event_active": false,
+  "expeditions": {
+    "active": null,
+    "history": []
+  },
+  "season": {
+    "id": "S1",
+    "xp": 0,
+    "level": 1,
+    "premium": false,
+    "claimed_free": [],
+    "claimed_premium": []
+  },
+  "quests": {
+    "daily": {
+      "reset_at": 1772274685.8933563,
+      "items": {
+        "start_expedition_1": {
+          "event": "start_expedition",
+          "target": 1,
+          "progress": 0,
+          "reward": {
+            "season_xp": 55,
+            "gems": 8
+          },
+          "done": false
+        },
+        "upgrade_any_5": {
+          "event": "upgrade_any",
+          "target": 5,
+          "progress": 0,
+          "reward": {
+            "season_xp": 60,
+            "gems": 10
+          },
+          "done": false
+        },
+        "earn_50000": {
+          "event": "earn_coins",
+          "target": 50000,
+          "progress": 0,
+          "reward": {
+            "season_xp": 70,
+            "gems": 12
+          },
+          "done": false
+        }
+      },
+      "claimed": []
+    },
+    "weekly": {
+      "reset_at": 1772793085.8933563,
+      "items": {
+        "open_chest_10": {
+          "event": "open_chest",
+          "target": 10,
+          "progress": 0,
+          "reward": {
+            "season_xp": 280,
+            "gems": 40
+          },
+          "done": false
+        },
+        "earn_1000000": {
+          "event": "earn_coins",
+          "target": 1000000,
+          "progress": 0,
+          "reward": {
+            "season_xp": 320,
+            "gems": 50,
+            "manager_fragments": 10
+          },
+          "done": false
+        },
+        "complete_expeditions_5": {
+          "event": "complete_expedition",
+          "target": 5,
+          "progress": 0,
+          "reward": {
+            "season_xp": 250,
+            "gems": 35,
+            "chest_basic": 1
+          },
+          "done": false
+        }
+      },
+      "claimed": []
+    }
+  },
+  "antispam": {
+    "action_ts": [
+      1772188309.041379,
+      1772188320.6420286
+    ]
+  },
+  "settings": {
+    "notifications": true,
+    "notifications_enabled": true,
+    "notify_manager_ready": true,
+    "notify_event_end": true,
+    "notify_daily_ready": true,
+    "notify_prestige_ready": false,
+    "notify_updates": true,
+    "notify_expedition_done": true,
+    "last_action_ts": 1772188320.6420224,
+    "last_unsolicited_ts": 0,
+    "last_notified": {
+      "manager_ready": 0,
+      "event_end": 0,
+      "daily_ready": 0,
+      "prestige_ready": 0,
+      "update": 0,
+      "exp_done": 0
+    }
+  },
+  "stats": {
+    "total_earned": 500,
+    "total_upgrades": 0,
+    "start_date": 1772188285.8932884
+  },
+  "achievements": [],
+  "has_started": true,
+  "creator_sub_reward_claimed": false,
+  "creator_sub_bonus_active": false,
+  "creator_reaction_reward_claimed": false,
+  "creator_reaction_bonus_active": false,
+  "lang": "uz",
+  "lang_prompted": true,
+  "onboarding_done": false,
+  "last_seen_version": "0.3.0"
+}

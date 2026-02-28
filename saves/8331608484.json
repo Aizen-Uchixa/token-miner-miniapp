@@ -1,0 +1,91 @@
+{
+  "name": "Avazbek",
+  "coins": 30493,
+  "gems": 25,
+  "active_mine": "coal",
+  "unlocked_mines": [
+    "coal"
+  ],
+  "mines": {
+    "coal": {
+      "shaft": {
+        "level": 19
+      },
+      "elevator": {
+        "level": 19
+      },
+      "warehouse": {
+        "level": 19
+      },
+      "level": 3
+    }
+  },
+  "inventory": {
+    "boost_x2": 0,
+    "boost_x5": 0,
+    "boost_x10": 0
+  },
+  "active_boost": {
+    "multiplier": 2,
+    "expires_at": 1772179080.6667664
+  },
+  "assigned_managers": {
+    "shaft": "miner_c",
+    "elevator": null,
+    "warehouse": null
+  },
+  "manager_inventory": {
+    "miner_c": {
+      "level": 1,
+      "fragments": 1
+    }
+  },
+  "manager_skills": {
+    "shaft": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    },
+    "elevator": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    },
+    "warehouse": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    }
+  },
+  "missions_completed": [],
+  "last_offline_check": 1772179126.1607814,
+  "offline_earnings": 0,
+  "prestige_points": 0,
+  "research": {
+    "efficiency": 0,
+    "logistics": 0,
+    "automation": 0,
+    "engineering": 0,
+    "marketing": 0
+  },
+  "last_daily": 0,
+  "event_active": false,
+  "settings": {
+    "notifications": true,
+    "last_action_ts": 1772179126.1607585
+  },
+  "stats": {
+    "total_earned": 976606,
+    "total_upgrades": 56,
+    "start_date": 1772169992.3862135
+  },
+  "achievements": [
+    "upgrader_50"
+  ],
+  "has_started": true,
+  "automation_lvl": 0,
+  "manager_chest_opened": 0,
+  "creator_sub_reward_claimed": false,
+  "lang": "uz",
+  "lang_prompted": true
+}

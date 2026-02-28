@@ -1,0 +1,89 @@
+{
+  "name": "Shahriyor",
+  "coins": 5,
+  "gems": 50,
+  "active_mine": "coal",
+  "unlocked_mines": [
+    "coal"
+  ],
+  "mines": {
+    "coal": {
+      "shaft": {
+        "level": 4
+      },
+      "elevator": {
+        "level": 3
+      },
+      "warehouse": {
+        "level": 1
+      },
+      "level": 1
+    }
+  },
+  "inventory": {
+    "boost_x2": 1,
+    "boost_x5": 0,
+    "boost_x10": 0
+  },
+  "active_boost": {
+    "multiplier": 1,
+    "expires_at": 0
+  },
+  "assigned_managers": {
+    "shaft": "miner_c",
+    "elevator": null,
+    "warehouse": null
+  },
+  "manager_inventory": {
+    "miner_c": {
+      "level": 1,
+      "fragments": 1
+    }
+  },
+  "manager_skills": {
+    "shaft": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    },
+    "elevator": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    },
+    "warehouse": {
+      "active_until": 0,
+      "cd_until": 0,
+      "notified": true
+    }
+  },
+  "missions_completed": [],
+  "last_offline_check": 1772180890.88626,
+  "offline_earnings": 0,
+  "prestige_points": 0,
+  "automation_lvl": 0,
+  "manager_chest_opened": 0,
+  "research": {
+    "efficiency": 0,
+    "logistics": 0,
+    "automation": 0,
+    "engineering": 0,
+    "marketing": 0
+  },
+  "last_daily": 0,
+  "event_active": false,
+  "settings": {
+    "notifications": true,
+    "last_action_ts": 1772180890.8862448
+  },
+  "stats": {
+    "total_earned": 730,
+    "total_upgrades": 5,
+    "start_date": 1772180676.0916054
+  },
+  "achievements": [],
+  "has_started": true,
+  "creator_sub_reward_claimed": false,
+  "lang": "en",
+  "lang_prompted": false
+}
